@@ -86,7 +86,7 @@ The dataset contains **11,251 rows** and **15 columns** representing individual 
 ## 🔍 Exploratory Data Analysis
 
 ### 👩 Gender Analysis
-- Female buyers outnumber male buyers in total orders.
+- Female buyers out number male buyers in total orders.
 - Female buyers also have **higher total spending** than male buyers.
 - ✅ **Insight:** Women are the primary consumer segment during Diwali.
 
