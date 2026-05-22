@@ -187,22 +187,6 @@ The notebook includes the following charts:
 
 ***
 
-## 🔮 Future Scope
-
-- [ ] Add time-series analysis of sales trends across Diwali days
-- [ ] Build a customer segmentation model using K-Means Clustering
-- [ ] Develop a sales prediction model using Linear Regression
-- [ ] Create an interactive dashboard using Plotly Dash or Power BI
-- [ ] Add geographic heatmaps for state-wise performance
-
-***
-
-
-***
-
-
-***
-
 ## 👩‍💻 Author
 
 **Priya Jha**
