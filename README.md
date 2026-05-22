@@ -4,11 +4,7 @@
 
 ### Exploratory Data Analysis (EDA) on Diwali Festival Sales Data
 
-[
-[
-[
-[
-[
+
 
 </div>
 
